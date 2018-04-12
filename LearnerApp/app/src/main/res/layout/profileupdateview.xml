@@ -26,7 +26,7 @@
         android:layout_marginTop="8dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/upProfileTitle"
-        app:srcCompat="@drawable/ProfileImage" />
+        app:srcCompat="@drawable/profileimage" />
 
     <EditText
         android:id="@+id/upFirstNamePlain"

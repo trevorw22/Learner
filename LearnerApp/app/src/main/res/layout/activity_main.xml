@@ -8,14 +8,14 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="386dp"
-        android:layout_height="194dp"
+        android:layout_width="388dp"
+        android:layout_height="196dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/MainView01" />
+        app:srcCompat="@drawable/mainview01" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -24,7 +24,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/MainView02" />
+        app:srcCompat="@drawable/mainview02" />
 
     <Button
         android:id="@+id/btnSearch"
